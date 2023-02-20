@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ptk:dev": "vitepress dev protecttranskids",
+    "ptk:build": "vitepress build protecttranskids",
+    "ptk:preview": "vitepress preview protecttranskids"
+   },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.46",
+    "vue": "^3.2.47"
+  }
+}

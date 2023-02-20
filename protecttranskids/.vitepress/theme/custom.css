@@ -1,0 +1,7 @@
+/* https://vitepress.vuejs.org/guide/theme-introduction */
+/* .vitepress/theme/custom.css */
+/* Other choices: https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css*/
+:root {
+  --vp-c-brand: #5BCEFA;
+  --vp-c-brand-light: #F096AA;
+}
