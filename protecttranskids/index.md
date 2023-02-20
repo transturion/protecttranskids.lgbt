@@ -13,7 +13,7 @@ hero:
       text: About Page
       link: /blog/about-us
     - theme: alt
-      text: View the Source Code
-      link:
+      text: Source Code
+      link: https://github.com/protecttranskids/protecttranskids.lgbt
 
 ---
