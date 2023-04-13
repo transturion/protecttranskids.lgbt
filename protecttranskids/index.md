@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Protect Trans Kids
   text: "We don't want your kids to be trans, we want our trans kids to survive."
-  tagline: "#BriannaGhey"
+  tagline: "#TransRightsSaveLives"
   image:
     src: /Transgender_Pride_flag.svg.png
     alt: Trans Pride Flag
