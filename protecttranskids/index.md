@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: About Page
-      link: /blog/about
+      link: /articles/about
     - theme: alt
       text: Source Code
       link: https://github.com/protecttranskids/protecttranskids.lgbt
