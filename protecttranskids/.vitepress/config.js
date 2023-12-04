@@ -3,12 +3,7 @@ export default {
   description: 'The front page of ProtectTransKids.lgbt',
   cleanUrls: true,
   themeConfig: {
-    siteTitle: '#ProtectTransKids',
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Blog', link: '/articles/' },
-      { text: 'External', link: '' },
-    ],
+    siteTitle: 'Protect Trans Kids',
   lastUpdated: true,
   base: '/protecttranskids.lgbt/'
   }
